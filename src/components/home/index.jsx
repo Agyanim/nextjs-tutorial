@@ -1,4 +1,4 @@
-const { Hero_Section } = require("./Hero_Section");
-const { About_Section } = require("./About_Section");
+const { Hero_Section } = require("./heroSection");
+const { About_Section } = require("./sboutSection");
 
 export { Hero_Section, About_Section };
